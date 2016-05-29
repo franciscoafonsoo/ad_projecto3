@@ -1,6 +1,8 @@
 Projeto de Aplicações Distribuidas do grupo 025
 
-Francisco Pires, nº44314 Alexandre Machado nº43551 Nuno Silva, nº44285
+Francisco Pires
+Alexandre Machado
+Nuno Silva
 
 ------------------ Terceira Entrega ------------------
 
